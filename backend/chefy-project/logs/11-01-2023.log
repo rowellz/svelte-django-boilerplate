@@ -1,0 +1,19 @@
+INFO 2023-01-11 22:27:30,727 autoreload 15 548263202064 Watching for file changes with StatReloader
+INFO 2023-01-11 22:29:12,853 util 15 548174840288 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-002/completions
+INFO 2023-01-11 22:29:19,166 util 15 548174840288 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-002/completions response_code=200
+INFO 2023-01-11 22:45:26,007 autoreload 15 548153081104 Watching for file changes with StatReloader
+INFO 2023-01-11 22:45:29,483 util 15 548090421728 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-002/completions
+INFO 2023-01-11 22:45:30,598 util 15 548090421728 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-002/completions response_code=200
+INFO 2023-01-11 22:45:54,140 util 15 548090421728 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-002/completions
+INFO 2023-01-11 22:45:54,666 util 15 548090421728 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-002/completions response_code=200
+INFO 2023-01-11 22:46:16,341 util 15 548090421728 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-002/completions
+INFO 2023-01-11 22:46:17,063 util 15 548090421728 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-002/completions response_code=200
+INFO 2023-01-11 22:51:31,723 util 15 548090421728 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-002/completions
+INFO 2023-01-11 22:51:32,662 util 15 548090421728 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-002/completions response_code=200
+INFO 2023-01-11 22:51:44,555 util 15 548090421728 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-002/completions
+INFO 2023-01-11 22:51:45,482 util 15 548090421728 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-002/completions response_code=200
+INFO 2023-01-11 23:19:39,353 autoreload 14 548625079568 Watching for file changes with StatReloader
+INFO 2023-01-11 23:27:38,626 autoreload 15 547667557648 Watching for file changes with StatReloader
+INFO 2023-01-11 23:32:56,484 autoreload 15 548367899920 Watching for file changes with StatReloader
+INFO 2023-01-11 23:37:18,075 autoreload 16 547830594832 Watching for file changes with StatReloader
+INFO 2023-01-11 23:58:22,375 autoreload 15 548114791696 Watching for file changes with StatReloader

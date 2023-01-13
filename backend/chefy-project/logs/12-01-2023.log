@@ -1,0 +1,373 @@
+INFO 2023-01-12 00:03:10,980 autoreload 15 548536913168 Watching for file changes with StatReloader
+INFO 2023-01-12 00:11:22,792 autoreload 15 548568829200 Watching for file changes with StatReloader
+INFO 2023-01-12 18:59:04,414 autoreload 15 548568829200 /app/backend/chefy/views/openai.py changed, reloading.
+INFO 2023-01-12 18:59:08,423 autoreload 18 548267818256 Watching for file changes with StatReloader
+INFO 2023-01-12 18:59:16,248 autoreload 18 548267818256 /app/backend/chefy/views/openai.py changed, reloading.
+INFO 2023-01-12 18:59:19,255 autoreload 21 547806280976 Watching for file changes with StatReloader
+INFO 2023-01-12 18:59:22,570 autoreload 21 547806280976 /app/backend/chefy/views/openai.py changed, reloading.
+INFO 2023-01-12 18:59:25,485 autoreload 24 547765669136 Watching for file changes with StatReloader
+INFO 2023-01-12 18:59:30,871 autoreload 24 547765669136 /app/backend/chefy/views/openai.py changed, reloading.
+INFO 2023-01-12 18:59:33,834 autoreload 27 548407954704 Watching for file changes with StatReloader
+INFO 2023-01-12 18:59:39,263 autoreload 27 548407954704 /app/backend/chefy/views/openai.py changed, reloading.
+INFO 2023-01-12 18:59:42,165 autoreload 30 548538424592 Watching for file changes with StatReloader
+INFO 2023-01-12 18:59:50,727 autoreload 30 548538424592 /app/backend/chefy/views/openai.py changed, reloading.
+INFO 2023-01-12 18:59:53,689 autoreload 33 547886750992 Watching for file changes with StatReloader
+INFO 2023-01-12 19:00:01,214 autoreload 33 547886750992 /app/backend/chefy/views/openai.py changed, reloading.
+INFO 2023-01-12 19:00:04,143 autoreload 36 548108369168 Watching for file changes with StatReloader
+INFO 2023-01-12 19:04:49,032 autoreload 36 548108369168 /app/backend/chefy/views/openai.py changed, reloading.
+INFO 2023-01-12 19:04:51,938 autoreload 46 547725647120 Watching for file changes with StatReloader
+INFO 2023-01-12 19:18:51,191 autoreload 15 548170841360 Watching for file changes with StatReloader
+INFO 2023-01-12 19:21:53,409 util 15 548107887072 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-002/completions
+INFO 2023-01-12 19:21:54,585 util 15 548098707936 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-002/completions
+INFO 2023-01-12 19:21:57,955 util 15 548107887072 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-002/completions response_code=200
+INFO 2023-01-12 19:21:58,948 util 15 548098707936 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-002/completions response_code=200
+INFO 2023-01-12 19:33:20,162 autoreload 15 548170841360 /app/backend/chefy-project/settings.py changed, reloading.
+INFO 2023-01-12 19:33:23,162 autoreload 20 547614477584 Watching for file changes with StatReloader
+INFO 2023-01-12 19:49:06,623 autoreload 15 547802926352 Watching for file changes with StatReloader
+INFO 2023-01-12 19:51:29,962 util 15 547673076192 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-002/completions
+INFO 2023-01-12 19:51:39,199 util 15 547673076192 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-002/completions response_code=200
+INFO 2023-01-12 20:07:00,092 autoreload 15 548496956688 Watching for file changes with StatReloader
+WARNING 2023-01-12 20:10:41,677 log 15 548434317792 Not Found: /api/open-ai/
+WARNING 2023-01-12 20:11:00,396 log 15 548434317792 Not Found: /api/open-ai/
+WARNING 2023-01-12 20:11:06,034 log 15 548434317792 Not Found: /api/open-ai/
+WARNING 2023-01-12 20:11:17,986 log 15 548434317792 Not Found: /api/open-ai/
+WARNING 2023-01-12 20:11:23,189 log 15 548434317792 Not Found: /api/open-ai/
+INFO 2023-01-12 20:12:48,861 autoreload 15 548496956688 /app/backend/chefy-project/urls.py changed, reloading.
+INFO 2023-01-12 20:12:51,825 autoreload 24 548600298768 Watching for file changes with StatReloader
+INFO 2023-01-12 20:14:19,991 autoreload 24 548600298768 /app/backend/chefy-project/urls.py changed, reloading.
+INFO 2023-01-12 20:14:22,965 autoreload 27 547611131152 Watching for file changes with StatReloader
+WARNING 2023-01-12 20:15:03,998 log 27 547474108896 Not Found: /api/open-ai/
+WARNING 2023-01-12 20:15:04,042 log 27 547457323488 Not Found: /api/open-ai/
+WARNING 2023-01-12 20:15:04,052 log 27 547465716192 Not Found: /api/open-ai/
+WARNING 2023-01-12 20:15:04,092 log 27 547448930784 Not Found: /api/open-ai/
+WARNING 2023-01-12 20:15:04,101 log 27 547474108896 Not Found: /api/open-ai/
+WARNING 2023-01-12 20:15:11,835 log 27 547474108896 Not Found: /api/open-ai/
+WARNING 2023-01-12 20:16:59,946 log 27 547474108896 Not Found: /api/open-ai/
+WARNING 2023-01-12 20:18:37,790 log 27 547474108896 Not Found: /api/open-ai/
+WARNING 2023-01-12 20:18:46,570 log 27 547474108896 Not Found: /api/open-ai/
+WARNING 2023-01-12 20:19:09,668 log 27 547474108896 Not Found: /api/open-ai/
+WARNING 2023-01-12 20:20:20,531 log 27 547474108896 Not Found: /api/open-ai/
+WARNING 2023-01-12 20:20:28,033 log 27 547474108896 Not Found: /api/open-ai/
+WARNING 2023-01-12 20:22:23,187 log 27 547474108896 Not Found: /api/open-ai/
+INFO 2023-01-12 20:23:20,777 autoreload 27 547611131152 /app/backend/chefy-project/urls.py changed, reloading.
+INFO 2023-01-12 20:23:23,765 autoreload 43 548115954960 Watching for file changes with StatReloader
+WARNING 2023-01-12 20:24:00,314 log 43 548053000672 Not Found: /api/open-ai/
+WARNING 2023-01-12 20:26:54,224 log 43 548043411936 Not Found: /api/open-ai/
+INFO 2023-01-12 20:27:58,154 autoreload 43 548115954960 /app/backend/chefy-project/urls.py changed, reloading.
+INFO 2023-01-12 20:28:01,137 autoreload 55 547832302864 Watching for file changes with StatReloader
+INFO 2023-01-12 20:28:26,962 autoreload 55 547832302864 /app/backend/chefy-project/urls.py changed, reloading.
+INFO 2023-01-12 20:28:29,883 autoreload 59 547716635920 Watching for file changes with StatReloader
+WARNING 2023-01-12 20:28:48,759 log 59 547654377952 Not Found: /open-ai/
+INFO 2023-01-12 20:29:17,770 autoreload 59 547716635920 /app/backend/chefy-project/urls.py changed, reloading.
+INFO 2023-01-12 20:29:20,703 autoreload 68 547816013072 Watching for file changes with StatReloader
+INFO 2023-01-12 20:29:35,651 util 68 547753583072 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-002/completions
+INFO 2023-01-12 20:29:41,985 util 68 547753583072 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-002/completions response_code=200
+INFO 2023-01-12 20:30:17,504 autoreload 68 547816013072 /app/backend/chefy-project/urls.py changed, reloading.
+INFO 2023-01-12 20:30:20,436 autoreload 77 548660014352 Watching for file changes with StatReloader
+INFO 2023-01-12 20:30:36,186 util 77 548597232096 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-002/completions
+INFO 2023-01-12 20:30:43,115 util 77 548597232096 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-002/completions response_code=200
+WARNING 2023-01-12 20:31:49,377 log 77 548597232096 Not Found: /api
+WARNING 2023-01-12 20:33:21,103 log 77 548597232096 Not Found: /api
+INFO 2023-01-12 20:34:04,270 autoreload 77 548660014352 /app/backend/chefy-project/urls.py changed, reloading.
+INFO 2023-01-12 20:34:07,240 autoreload 83 547823443216 Watching for file changes with StatReloader
+INFO 2023-01-12 20:34:33,832 autoreload 83 547823443216 /app/backend/chefy-project/urls.py changed, reloading.
+INFO 2023-01-12 20:34:36,841 autoreload 86 548468059408 Watching for file changes with StatReloader
+INFO 2023-01-12 20:34:48,694 autoreload 86 548468059408 /app/backend/chefy-project/urls.py changed, reloading.
+INFO 2023-01-12 20:34:51,628 autoreload 89 547623185680 Watching for file changes with StatReloader
+INFO 2023-01-12 20:35:19,230 autoreload 89 547623185680 /app/backend/chefy-project/urls.py changed, reloading.
+INFO 2023-01-12 20:35:22,206 autoreload 92 548250037520 Watching for file changes with StatReloader
+WARNING 2023-01-12 20:35:27,038 log 92 548187255264 Not Found: /api
+WARNING 2023-01-12 20:35:27,968 log 92 548187255264 Not Found: /api
+WARNING 2023-01-12 20:35:28,621 log 92 548187255264 Not Found: /api
+INFO 2023-01-12 21:36:12,752 autoreload 15 547910593808 Watching for file changes with StatReloader
+ERROR 2023-01-12 21:36:39,248 exception 15 547847901664 Invalid HTTP_HOST header: 'backend:8000'. You may need to add 'backend' to ALLOWED_HOSTS.
+WARNING 2023-01-12 21:36:39,435 log 15 547847901664 Bad Request: /api
+INFO 2023-01-12 21:38:44,962 autoreload 15 547710287120 Watching for file changes with StatReloader
+WARNING 2023-01-12 21:38:49,175 log 15 547647594976 Not Found: /api
+WARNING 2023-01-12 21:39:54,637 log 15 547255996896 Not Found: /apiopen-ai/
+WARNING 2023-01-12 21:40:18,805 log 15 547264389600 Not Found: /apiopen-ai/
+WARNING 2023-01-12 21:41:02,964 log 15 547264389600 Not Found: /api
+INFO 2023-01-12 21:42:12,636 autoreload 15 548499094800 Watching for file changes with StatReloader
+WARNING 2023-01-12 21:42:19,455 log 15 548436140512 Not Found: /api/open-ai/
+INFO 2023-01-12 21:42:55,880 autoreload 15 548499094800 /app/backend/chefy-project/urls.py changed, reloading.
+INFO 2023-01-12 21:42:58,857 autoreload 20 547885366544 Watching for file changes with StatReloader
+WARNING 2023-01-12 21:43:09,987 log 20 547822674400 Not Found: /api/open-ai/
+WARNING 2023-01-12 21:43:14,778 log 20 547822674400 Not Found: /api/open-ai/
+WARNING 2023-01-12 21:43:51,964 log 20 547822674400 Not Found: /api/open-ai/
+INFO 2023-01-12 21:44:39,189 autoreload 20 547885366544 /app/backend/chefy-project/urls.py changed, reloading.
+INFO 2023-01-12 21:44:42,115 autoreload 26 547601923344 Watching for file changes with StatReloader
+INFO 2023-01-12 21:44:45,397 autoreload 26 547601923344 /app/backend/chefy-project/urls.py changed, reloading.
+INFO 2023-01-12 21:44:48,295 autoreload 29 548504427792 Watching for file changes with StatReloader
+WARNING 2023-01-12 21:44:54,212 log 29 548441473504 Not Found: /api/open-ai/
+WARNING 2023-01-12 21:45:15,212 log 29 548441473504 Not Found: /open-ai/
+INFO 2023-01-12 21:45:30,241 autoreload 29 548504427792 /app/backend/chefy-project/urls.py changed, reloading.
+INFO 2023-01-12 21:45:33,207 autoreload 38 548542303504 Watching for file changes with StatReloader
+INFO 2023-01-12 21:45:50,064 util 38 548412441056 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-002/completions
+INFO 2023-01-12 21:45:56,100 util 38 548412441056 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-002/completions response_code=200
+WARNING 2023-01-12 21:46:34,541 log 38 548412441056 Not Found: /api/open-ai/
+WARNING 2023-01-12 21:47:00,070 log 38 548402328032 Not Found: /api
+INFO 2023-01-12 21:49:23,198 autoreload 14 547831160080 Watching for file changes with StatReloader
+INFO 2023-01-12 21:53:20,817 autoreload 16 548107783440 Watching for file changes with StatReloader
+WARNING 2023-01-12 21:53:25,952 log 16 548045091296 Not Found: /ios
+WARNING 2023-01-12 21:53:25,996 log 16 548045091296 Not Found: /.svelte-kit/generated/nodes/5.js
+WARNING 2023-01-12 21:53:26,001 log 16 548035764704 Not Found: /src/routes/ios/+page.svelte
+WARNING 2023-01-12 21:53:26,462 log 16 548035764704 Not Found: /src/lib/images/svelte-welcome.webp
+WARNING 2023-01-12 21:53:26,473 log 16 548027109856 Not Found: /src/routes/+page.ts
+WARNING 2023-01-12 21:53:26,479 log 16 547801260512 Not Found: /src/lib/images/svelte-welcome.webp
+WARNING 2023-01-12 21:53:26,486 log 16 548045091296 Not Found: /.svelte-kit/generated/nodes/2.js
+WARNING 2023-01-12 21:53:26,526 log 16 547809653216 Not Found: /src/routes/Counter.svelte
+WARNING 2023-01-12 21:53:26,544 log 16 547792867808 Not Found: /src/routes/+page.svelte
+WARNING 2023-01-12 21:53:26,551 log 16 548035764704 Not Found: /src/lib/images/svelte-welcome.png
+WARNING 2023-01-12 21:53:26,562 log 16 547784475104 Not Found: /src/routes/+page.svelte
+WARNING 2023-01-12 21:53:26,610 log 16 548045091296 Not Found: /src/routes/Counter.svelte
+WARNING 2023-01-12 21:53:32,950 log 16 547784475104 Not Found: /ios
+INFO 2023-01-12 22:02:00,721 autoreload 15 547946425616 Watching for file changes with StatReloader
+WARNING 2023-01-12 22:09:55,322 log 15 547759296992 Not Found: /api/open-ai/
+WARNING 2023-01-12 22:14:36,866 log 15 547809653216 Not Found: /api/open-ai/
+WARNING 2023-01-12 22:14:41,266 log 15 547809653216 Not Found: /api/open-ai/
+WARNING 2023-01-12 22:14:43,434 log 15 547809653216 Not Found: /api/open-ai/
+WARNING 2023-01-12 22:14:45,468 log 15 547809653216 Not Found: /api/open-ai/
+WARNING 2023-01-12 22:14:58,950 log 15 547809653216 Not Found: /api/open-ai/
+WARNING 2023-01-12 22:15:26,716 log 15 547809653216 Not Found: /api/open-ai/
+WARNING 2023-01-12 22:15:39,242 log 15 547809653216 Not Found: /api/open-ai/
+WARNING 2023-01-12 22:15:58,850 log 15 547809653216 Not Found: /api/open-ai/
+WARNING 2023-01-12 22:16:45,290 log 15 547809653216 Not Found: /api/open-ai/
+INFO 2023-01-12 22:17:10,228 autoreload 15 547946425616 /app/backend/chefy-project/urls.py changed, reloading.
+INFO 2023-01-12 22:17:13,287 autoreload 34 547806833936 Watching for file changes with StatReloader
+WARNING 2023-01-12 22:17:38,154 log 34 547667042784 Not Found: /api/open-ai/
+INFO 2023-01-12 22:20:19,466 autoreload 34 547806833936 /app/backend/chefy-project/urls.py changed, reloading.
+INFO 2023-01-12 22:20:22,433 autoreload 44 548230384912 Watching for file changes with StatReloader
+WARNING 2023-01-12 22:20:37,120 log 44 548167635424 Not Found: /api/open-ai/
+INFO 2023-01-12 22:20:53,527 autoreload 44 548230384912 /app/backend/chefy-project/urls.py changed, reloading.
+INFO 2023-01-12 22:20:56,447 autoreload 48 548517588240 Watching for file changes with StatReloader
+WARNING 2023-01-12 22:21:28,774 log 48 548454896096 Not Found: /api/open-ai/
+WARNING 2023-01-12 22:21:32,173 log 48 548454896096 Not Found: /api/open-ai/
+WARNING 2023-01-12 22:22:56,986 log 48 548454896096 Not Found: /api/open-ai/
+INFO 2023-01-12 22:23:41,855 autoreload 15 548109430032 Watching for file changes with StatReloader
+WARNING 2023-01-12 22:23:52,255 log 15 548046475744 Not Found: /api
+WARNING 2023-01-12 22:24:31,413 log 15 548046475744 Not Found: /api/open-ai/
+INFO 2023-01-12 22:25:37,879 autoreload 15 548109430032 /app/backend/chefy-project/urls.py changed, reloading.
+INFO 2023-01-12 22:25:40,884 autoreload 20 548327726352 Watching for file changes with StatReloader
+WARNING 2023-01-12 22:25:49,129 log 20 548265087456 Not Found: /api/open-ai/
+WARNING 2023-01-12 22:25:51,978 log 20 548265087456 Not Found: /api/open-ai/
+WARNING 2023-01-12 22:26:29,100 log 20 548265087456 Not Found: /api/open-ai/
+INFO 2023-01-12 22:30:46,833 autoreload 15 548457245968 Watching for file changes with StatReloader
+INFO 2023-01-12 22:50:16,799 autoreload 15 547774483728 Watching for file changes with StatReloader
+INFO 2023-01-12 22:50:31,794 autoreload 15 547774483728 /app/backend/chefy-project/urls.py changed, reloading.
+INFO 2023-01-12 22:50:34,721 autoreload 18 548624710928 Watching for file changes with StatReloader
+ERROR 2023-01-12 22:50:45,609 exception 18 548561756640 Invalid HTTP_HOST header: 'backend:8000'. You may need to add 'backend' to ALLOWED_HOSTS.
+WARNING 2023-01-12 22:50:45,797 log 18 548561756640 Bad Request: /api
+INFO 2023-01-12 22:52:20,619 autoreload 16 548019326224 Watching for file changes with StatReloader
+ERROR 2023-01-12 22:52:28,227 exception 16 547956543968 Invalid HTTP_HOST header: 'backend:8000'. You may need to add 'backend' to ALLOWED_HOSTS.
+WARNING 2023-01-12 22:52:28,402 log 16 547956543968 Bad Request: /api
+ERROR 2023-01-12 22:52:33,033 exception 16 547956543968 Invalid HTTP_HOST header: 'backend:8000'. You may need to add 'backend' to ALLOWED_HOSTS.
+WARNING 2023-01-12 22:52:33,122 log 16 547956543968 Bad Request: /api
+ERROR 2023-01-12 22:52:55,084 exception 16 547956543968 Invalid HTTP_HOST header: 'backend:8000'. You may need to add 'backend' to ALLOWED_HOSTS.
+WARNING 2023-01-12 22:52:55,172 log 16 547956543968 Bad Request: /api/open-ai/
+ERROR 2023-01-12 22:53:33,238 exception 16 547956543968 Invalid HTTP_HOST header: 'backend:8000'. You may need to add 'backend' to ALLOWED_HOSTS.
+WARNING 2023-01-12 22:53:33,362 log 16 547956543968 Bad Request: /api/open-ai/
+INFO 2023-01-12 22:54:46,993 autoreload 15 547818114320 Watching for file changes with StatReloader
+INFO 2023-01-12 22:54:59,500 util 15 547755332064 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-002/completions
+INFO 2023-01-12 22:55:06,510 util 15 547755332064 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-002/completions response_code=200
+INFO 2023-01-12 22:55:58,533 util 15 547755332064 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-002/completions
+INFO 2023-01-12 22:56:08,344 util 15 547755332064 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-002/completions response_code=200
+WARNING 2023-01-12 22:56:49,803 log 15 547755332064 Not Found: /api
+WARNING 2023-01-12 22:56:58,171 log 15 547755332064 Not Found: /api
+INFO 2023-01-12 22:57:21,042 util 15 547755332064 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-002/completions
+INFO 2023-01-12 22:57:29,813 util 15 547755332064 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-002/completions response_code=200
+INFO 2023-01-12 22:59:27,842 autoreload 15 547931708688 Watching for file changes with StatReloader
+INFO 2023-01-12 23:00:50,090 util 15 547868754400 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-002/completions
+INFO 2023-01-12 23:00:57,603 util 15 547868754400 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-002/completions response_code=200
+INFO 2023-01-12 23:26:03,719 util 15 547868754400 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-002/completions
+INFO 2023-01-12 23:26:14,703 util 15 547868754400 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-002/completions response_code=200
+INFO 2023-01-12 23:27:58,486 autoreload 15 547931708688 /app/backend/chefy/views/openai.py changed, reloading.
+INFO 2023-01-12 23:28:01,481 autoreload 20 548361837840 Watching for file changes with StatReloader
+INFO 2023-01-12 23:28:11,111 autoreload 20 548361837840 /app/backend/chefy/views/openai.py changed, reloading.
+INFO 2023-01-12 23:28:14,108 autoreload 23 548053765392 Watching for file changes with StatReloader
+INFO 2023-01-12 23:28:17,375 autoreload 23 548053765392 /app/backend/chefy/views/openai.py changed, reloading.
+INFO 2023-01-12 23:28:20,346 autoreload 26 548488453392 Watching for file changes with StatReloader
+INFO 2023-01-12 23:28:33,128 autoreload 26 548488453392 /app/backend/chefy/views/openai.py changed, reloading.
+INFO 2023-01-12 23:28:36,122 autoreload 29 548435836176 Watching for file changes with StatReloader
+INFO 2023-01-12 23:28:40,463 autoreload 29 548435836176 /app/backend/chefy/views/openai.py changed, reloading.
+INFO 2023-01-12 23:28:43,457 autoreload 32 548015807760 Watching for file changes with StatReloader
+INFO 2023-01-12 23:28:45,689 autoreload 32 548015807760 /app/backend/chefy/views/openai.py changed, reloading.
+INFO 2023-01-12 23:28:48,634 autoreload 35 547875687696 Watching for file changes with StatReloader
+INFO 2023-01-12 23:28:50,863 autoreload 35 547875687696 /app/backend/chefy/views/openai.py changed, reloading.
+INFO 2023-01-12 23:28:53,809 autoreload 38 548192132368 Watching for file changes with StatReloader
+INFO 2023-01-12 23:28:58,119 autoreload 38 548192132368 /app/backend/chefy/views/openai.py changed, reloading.
+INFO 2023-01-12 23:29:01,100 autoreload 41 548582280464 Watching for file changes with StatReloader
+INFO 2023-01-12 23:29:04,009 autoreload 41 548582280464 /app/backend/chefy/views/openai.py changed, reloading.
+INFO 2023-01-12 23:29:06,951 autoreload 44 548612185360 Watching for file changes with StatReloader
+INFO 2023-01-12 23:29:49,571 autoreload 44 548612185360 /app/backend/chefy/views/openai.py changed, reloading.
+INFO 2023-01-12 23:29:52,583 autoreload 47 547717762320 Watching for file changes with StatReloader
+INFO 2023-01-12 23:30:17,093 autoreload 47 547717762320 /app/backend/chefy/views/openai.py changed, reloading.
+INFO 2023-01-12 23:30:20,017 autoreload 50 548490300688 Watching for file changes with StatReloader
+INFO 2023-01-12 23:30:26,038 autoreload 50 548490300688 /app/backend/chefy/views/openai.py changed, reloading.
+INFO 2023-01-12 23:30:29,043 autoreload 53 548320021776 Watching for file changes with StatReloader
+INFO 2023-01-12 23:30:33,377 autoreload 53 548320021776 /app/backend/chefy/views/openai.py changed, reloading.
+INFO 2023-01-12 23:30:36,343 autoreload 56 547824078096 Watching for file changes with StatReloader
+INFO 2023-01-12 23:30:40,678 autoreload 56 547824078096 /app/backend/chefy/views/openai.py changed, reloading.
+INFO 2023-01-12 23:30:43,656 autoreload 59 548464520464 Watching for file changes with StatReloader
+INFO 2023-01-12 23:31:01,329 util 59 548401566176 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-002/completions
+INFO 2023-01-12 23:31:05,461 util 59 548401566176 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-002/completions response_code=200
+ERROR 2023-01-12 23:31:05,661 log 59 548401566176 Internal Server Error: /api/open-ai/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.8/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/app/backend/chefy/views/openai.py", line 31, in post
+    chefy_recipe = ChefyRecipeModel.create(chat_gpt_response=chat_gpt_response, user="temp_user")
+AttributeError: type object 'ChefyRecipeModel' has no attribute 'create'
+INFO 2023-01-12 23:32:45,413 autoreload 15 548530806032 Watching for file changes with StatReloader
+INFO 2023-01-12 23:33:13,532 util 15 548467851744 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-002/completions
+INFO 2023-01-12 23:33:15,860 util 15 548458672608 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-002/completions
+INFO 2023-01-12 23:33:19,883 util 15 548467851744 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-002/completions response_code=200
+ERROR 2023-01-12 23:33:20,088 log 15 548467851744 Internal Server Error: /api/open-ai/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.8/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/app/backend/chefy/views/openai.py", line 31, in post
+    chefy_recipe = ChefyRecipeModel.create(chat_gpt_response=chat_gpt_response, user="temp_user")
+AttributeError: type object 'ChefyRecipeModel' has no attribute 'create'
+INFO 2023-01-12 23:33:24,312 util 15 548458672608 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-002/completions response_code=200
+ERROR 2023-01-12 23:33:24,496 log 15 548458672608 Internal Server Error: /api/open-ai/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.8/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/app/backend/chefy/views/openai.py", line 31, in post
+    chefy_recipe = ChefyRecipeModel.create(chat_gpt_response=chat_gpt_response, user="temp_user")
+AttributeError: type object 'ChefyRecipeModel' has no attribute 'create'
+INFO 2023-01-12 23:34:36,412 autoreload 15 548530806032 /app/backend/chefy/views/openai.py changed, reloading.
+INFO 2023-01-12 23:34:39,441 autoreload 20 548107308304 Watching for file changes with StatReloader
+INFO 2023-01-12 23:34:48,570 util 20 548044526048 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-002/completions
+INFO 2023-01-12 23:34:57,086 util 20 548044526048 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-002/completions response_code=200
+ERROR 2023-01-12 23:34:57,278 log 20 548044526048 Internal Server Error: /api/open-ai/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.8/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/app/backend/chefy/views/openai.py", line 31, in post
+    chefy_recipe = ChefyRecipeModel.objects.create(chat_gpt_response=chat_gpt_response, user="temp_user")
+NameError: name 'chat_gpt_response' is not defined
+INFO 2023-01-12 23:35:31,988 autoreload 20 548107308304 /app/backend/chefy/views/openai.py changed, reloading.
+INFO 2023-01-12 23:35:35,003 autoreload 24 548404288784 Watching for file changes with StatReloader
+INFO 2023-01-12 23:35:40,380 autoreload 24 548404288784 /app/backend/chefy/views/openai.py changed, reloading.
+INFO 2023-01-12 23:35:43,334 autoreload 27 548361338128 Watching for file changes with StatReloader
+INFO 2023-01-12 23:35:49,846 autoreload 27 548361338128 /app/backend/chefy/views/openai.py changed, reloading.
+INFO 2023-01-12 23:35:52,803 autoreload 30 548019105040 Watching for file changes with StatReloader
+INFO 2023-01-12 23:35:57,156 autoreload 30 548019105040 /app/backend/chefy/views/openai.py changed, reloading.
+INFO 2023-01-12 23:36:00,147 autoreload 33 547843808528 Watching for file changes with StatReloader
+INFO 2023-01-12 23:36:02,373 autoreload 33 547843808528 /app/backend/chefy/views/openai.py changed, reloading.
+INFO 2023-01-12 23:36:05,310 autoreload 36 548259257616 Watching for file changes with StatReloader
+INFO 2023-01-12 23:36:07,567 autoreload 36 548259257616 /app/backend/chefy/views/openai.py changed, reloading.
+INFO 2023-01-12 23:36:10,531 autoreload 39 547925028112 Watching for file changes with StatReloader
+INFO 2023-01-12 23:36:19,119 autoreload 39 547925028112 /app/backend/chefy/views/openai.py changed, reloading.
+INFO 2023-01-12 23:36:22,142 autoreload 42 548565384464 Watching for file changes with StatReloader
+INFO 2023-01-12 23:36:25,428 autoreload 42 548565384464 /app/backend/chefy/views/openai.py changed, reloading.
+INFO 2023-01-12 23:36:28,389 autoreload 45 548106018064 Watching for file changes with StatReloader
+INFO 2023-01-12 23:36:31,650 autoreload 45 548106018064 /app/backend/chefy/views/openai.py changed, reloading.
+INFO 2023-01-12 23:36:34,596 autoreload 48 547997408528 Watching for file changes with StatReloader
+INFO 2023-01-12 23:36:36,814 autoreload 48 547997408528 /app/backend/chefy/views/openai.py changed, reloading.
+INFO 2023-01-12 23:36:39,768 autoreload 51 547839167760 Watching for file changes with StatReloader
+INFO 2023-01-12 23:37:07,526 autoreload 51 547839167760 /app/backend/chefy/views/openai.py changed, reloading.
+INFO 2023-01-12 23:37:10,509 autoreload 54 547710434576 Watching for file changes with StatReloader
+INFO 2023-01-12 23:37:23,617 util 54 547647795680 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-002/completions
+INFO 2023-01-12 23:37:28,031 util 54 547647795680 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-002/completions response_code=200
+INFO 2023-01-12 23:44:00,824 autoreload 54 547710434576 /app/backend/chefy/views/openai.py changed, reloading.
+INFO 2023-01-12 23:44:03,817 autoreload 58 547639061776 Watching for file changes with StatReloader
+INFO 2023-01-12 23:44:06,053 autoreload 58 547639061776 /app/backend/chefy/views/openai.py changed, reloading.
+INFO 2023-01-12 23:44:09,098 autoreload 61 547983523088 Watching for file changes with StatReloader
+INFO 2023-01-12 23:44:11,336 autoreload 61 547983523088 /app/backend/chefy/views/openai.py changed, reloading.
+INFO 2023-01-12 23:44:14,309 autoreload 64 548024958224 Watching for file changes with StatReloader
+INFO 2023-01-12 23:44:18,634 autoreload 64 548024958224 /app/backend/chefy/views/openai.py changed, reloading.
+INFO 2023-01-12 23:44:21,628 autoreload 67 548568194320 Watching for file changes with StatReloader
+INFO 2023-01-12 23:44:25,527 util 67 548505473504 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-002/completions
+INFO 2023-01-12 23:44:35,967 util 67 548505473504 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-002/completions response_code=200
+INFO 2023-01-12 23:45:57,059 util 67 548505473504 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-002/completions
+INFO 2023-01-12 23:46:07,142 util 67 548505473504 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-002/completions response_code=200
+INFO 2023-01-12 23:47:28,704 util 67 548505473504 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-002/completions
+INFO 2023-01-12 23:47:35,990 util 67 548505473504 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-002/completions response_code=200
+INFO 2023-01-12 23:50:07,765 util 67 548505473504 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-002/completions
+INFO 2023-01-12 23:50:14,114 util 67 548505473504 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-002/completions response_code=200
+INFO 2023-01-12 23:55:31,927 util 67 548505473504 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-002/completions
+INFO 2023-01-12 23:55:43,142 util 67 548505473504 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-002/completions response_code=200
+INFO 2023-01-12 23:57:58,235 util 67 548505473504 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-002/completions
+INFO 2023-01-12 23:58:07,590 util 67 548505473504 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-002/completions response_code=200
+INFO 2023-01-12 23:58:44,186 util 67 548505473504 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-002/completions
+INFO 2023-01-12 23:58:53,929 util 67 548505473504 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-002/completions response_code=200
+INFO 2023-01-13 00:00:40,261 util 67 548505473504 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-002/completions
+INFO 2023-01-13 00:00:46,853 util 67 548505473504 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-002/completions response_code=200
+INFO 2023-01-13 00:01:25,162 util 67 548505473504 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-002/completions
+INFO 2023-01-13 00:01:36,585 util 67 548505473504 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-002/completions response_code=200
+ERROR 2023-01-13 00:05:36,089 exception 67 548505473504 Invalid HTTP_HOST header: '192.168.1.156:8000'. You may need to add '192.168.1.156' to ALLOWED_HOSTS.
+WARNING 2023-01-13 00:05:36,205 log 67 548505473504 Bad Request: /api/open-ai/
+WARNING 2023-01-13 00:06:07,672 log 67 548505473504 Not Found: /api
+INFO 2023-01-13 00:06:43,931 util 67 548505473504 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-002/completions
+INFO 2023-01-13 00:06:55,878 util 67 548505473504 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-002/completions response_code=200
+ERROR 2023-01-13 00:07:12,051 exception 67 548505473504 Invalid HTTP_HOST header: '192.168.1.156:8000'. You may need to add '192.168.1.156' to ALLOWED_HOSTS.
+WARNING 2023-01-13 00:07:12,141 log 67 548505473504 Bad Request: /
+ERROR 2023-01-13 00:07:12,190 exception 67 548505473504 Invalid HTTP_HOST header: '192.168.1.156:8000'. You may need to add '192.168.1.156' to ALLOWED_HOSTS.
+WARNING 2023-01-13 00:07:12,276 log 67 548505473504 Bad Request: /favicon.ico
+ERROR 2023-01-13 00:07:12,881 exception 67 548505473504 Invalid HTTP_HOST header: '192.168.1.156:8000'. You may need to add '192.168.1.156' to ALLOWED_HOSTS.
+WARNING 2023-01-13 00:07:12,968 log 67 548505473504 Bad Request: /
+ERROR 2023-01-13 00:07:13,017 exception 67 548505473504 Invalid HTTP_HOST header: '192.168.1.156:8000'. You may need to add '192.168.1.156' to ALLOWED_HOSTS.
+WARNING 2023-01-13 00:07:13,101 log 67 548505473504 Bad Request: /favicon.ico
+ERROR 2023-01-13 00:07:14,248 exception 67 548505473504 Invalid HTTP_HOST header: '192.168.1.156:8000'. You may need to add '192.168.1.156' to ALLOWED_HOSTS.
+WARNING 2023-01-13 00:07:14,393 log 67 548505473504 Bad Request: /
+ERROR 2023-01-13 00:07:14,443 exception 67 548505473504 Invalid HTTP_HOST header: '192.168.1.156:8000'. You may need to add '192.168.1.156' to ALLOWED_HOSTS.
+WARNING 2023-01-13 00:07:14,531 log 67 548505473504 Bad Request: /favicon.ico
+INFO 2023-01-13 00:11:53,712 autoreload 67 548568194320 /app/backend/chefy/views/openai.py changed, reloading.

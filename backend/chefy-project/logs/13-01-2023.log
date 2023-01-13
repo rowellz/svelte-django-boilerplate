@@ -1,0 +1,86 @@
+INFO 2023-01-13 00:11:56,716 autoreload 88 548501765392 Watching for file changes with StatReloader
+INFO 2023-01-13 00:12:14,688 util 88 548438983136 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-002/completions
+INFO 2023-01-13 00:12:25,510 util 88 548438983136 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-002/completions response_code=200
+INFO 2023-01-13 00:13:30,287 util 88 548438983136 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-002/completions
+INFO 2023-01-13 00:13:39,267 util 88 548438983136 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-002/completions response_code=200
+INFO 2023-01-13 00:14:31,468 util 88 548438983136 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-002/completions
+INFO 2023-01-13 00:14:37,998 util 88 548438983136 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-002/completions response_code=200
+INFO 2023-01-13 00:15:23,408 util 88 548438983136 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-002/completions
+INFO 2023-01-13 00:15:32,186 util 88 548438983136 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-002/completions response_code=200
+INFO 2023-01-13 00:16:37,023 util 88 548438983136 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-002/completions
+INFO 2023-01-13 00:16:43,137 util 88 548438983136 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-002/completions response_code=200
+WARNING 2023-01-13 00:18:49,671 log 88 548438983136 Not Found: /api
+WARNING 2023-01-13 00:19:07,757 log 88 548438983136 Not Found: /api
+INFO 2023-01-13 00:20:45,276 autoreload 15 548586249488 Watching for file changes with StatReloader
+WARNING 2023-01-13 00:20:46,369 log 15 548524081632 Not Found: /api
+WARNING 2023-01-13 00:20:54,839 log 15 548524081632 Not Found: /api
+INFO 2023-01-13 00:21:23,857 util 15 548524081632 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-002/completions
+INFO 2023-01-13 00:21:34,825 util 15 548524081632 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-002/completions response_code=200
+WARNING 2023-01-13 00:22:42,755 log 15 548524081632 Not Found: /api
+INFO 2023-01-13 00:25:19,204 autoreload 15 548241882384 Watching for file changes with StatReloader
+WARNING 2023-01-13 00:25:20,159 log 15 548179714528 Not Found: /api
+WARNING 2023-01-13 00:25:23,433 log 15 548179714528 Not Found: /api
+WARNING 2023-01-13 00:25:24,573 log 15 548179714528 Not Found: /api
+WARNING 2023-01-13 00:26:19,633 log 15 548179714528 Not Found: /api
+INFO 2023-01-13 00:27:24,599 autoreload 15 547667877136 Watching for file changes with StatReloader
+WARNING 2023-01-13 00:27:50,612 log 15 547537809888 Not Found: /api
+INFO 2023-01-13 00:28:29,543 util 15 547537809888 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-002/completions
+INFO 2023-01-13 00:28:44,220 util 15 547537809888 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-002/completions response_code=200
+INFO 2023-01-13 08:42:51,901 util 15 547537809888 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-002/completions
+INFO 2023-01-13 08:43:13,911 util 15 547537809888 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-002/completions response_code=200
+ERROR 2023-01-13 15:44:24,492 exception 15 547537809888 Invalid HTTP_HOST header: '192.168.1.156:8000'. You may need to add '192.168.1.156' to ALLOWED_HOSTS.
+WARNING 2023-01-13 15:44:24,650 log 15 547537809888 Bad Request: /
+ERROR 2023-01-13 15:44:24,888 exception 15 547537809888 Invalid HTTP_HOST header: '192.168.1.156:8000'. You may need to add '192.168.1.156' to ALLOWED_HOSTS.
+WARNING 2023-01-13 15:44:24,976 log 15 547537809888 Bad Request: /favicon.ico
+INFO 2023-01-13 15:49:07,991 autoreload 15 548483054864 Watching for file changes with StatReloader
+INFO 2023-01-13 15:50:55,508 util 15 548346524128 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-002/completions
+INFO 2023-01-13 15:50:56,700 util 15 548338131424 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-002/completions
+INFO 2023-01-13 15:51:02,339 util 15 548338131424 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-002/completions response_code=200
+INFO 2023-01-13 15:51:03,483 util 15 548346524128 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-002/completions response_code=200
+WARNING 2023-01-13 15:53:06,911 log 15 548346524128 Not Found: /api
+INFO 2023-01-13 15:53:49,793 autoreload 15 548483054864 /app/backend/chefy-project/urls.py changed, reloading.
+INFO 2023-01-13 15:53:52,726 autoreload 21 548639898896 Watching for file changes with StatReloader
+INFO 2023-01-13 15:53:54,937 autoreload 21 548639898896 /app/backend/chefy-project/urls.py changed, reloading.
+INFO 2023-01-13 15:53:57,867 autoreload 24 548240944400 Watching for file changes with StatReloader
+INFO 2023-01-13 16:00:57,430 autoreload 15 548080696592 Watching for file changes with StatReloader
+INFO 2023-01-13 16:01:04,866 util 15 547943870944 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-002/completions
+INFO 2023-01-13 16:01:13,922 util 15 547943870944 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-002/completions response_code=200
+WARNING 2023-01-13 16:01:42,052 log 15 547943870944 Not Found: /api
+INFO 2023-01-13 16:04:52,044 util 15 547943870944 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-002/completions
+INFO 2023-01-13 16:05:07,303 util 15 547943870944 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-002/completions response_code=200
+INFO 2023-01-13 16:07:49,942 autoreload 15 548080696592 /app/backend/chefy-project/urls.py changed, reloading.
+INFO 2023-01-13 16:07:52,923 autoreload 21 548411743504 Watching for file changes with StatReloader
+INFO 2023-01-13 16:10:08,384 autoreload 15 547776273680 Watching for file changes with StatReloader
+WARNING 2023-01-13 16:12:54,387 log 15 547713491424 Not Found: /swagger
+INFO 2023-01-13 16:14:43,695 autoreload 15 547776273680 /app/backend/chefy-project/urls.py changed, reloading.
+INFO 2023-01-13 16:14:46,619 autoreload 19 548666301712 Watching for file changes with StatReloader
+INFO 2023-01-13 16:16:08,863 util 19 548603519456 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-002/completions
+INFO 2023-01-13 16:16:20,082 util 19 548603519456 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-002/completions response_code=200
+INFO 2023-01-13 16:17:01,213 autoreload 19 548666301712 /app/backend/chefy-project/urls.py changed, reloading.
+INFO 2023-01-13 16:17:04,139 autoreload 27 548233436432 Watching for file changes with StatReloader
+INFO 2023-01-13 16:21:44,995 autoreload 15 547819576592 Watching for file changes with StatReloader
+WARNING 2023-01-13 16:24:04,630 log 15 547756937696 Not Found: /api
+INFO 2023-01-13 16:28:26,058 autoreload 16 548639026448 Watching for file changes with StatReloader
+WARNING 2023-01-13 16:31:40,332 log 16 548576387552 Not Found: /api
+INFO 2023-01-13 16:43:22,109 autoreload 15 548461878544 Watching for file changes with StatReloader
+INFO 2023-01-13 16:43:37,216 util 15 548399239648 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-002/completions
+INFO 2023-01-13 16:43:42,543 util 15 548399239648 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-002/completions response_code=200
+WARNING 2023-01-13 16:44:00,840 log 15 548399239648 Not Found: /swagger/
+INFO 2023-01-13 16:45:31,864 autoreload 15 548035280144 Watching for file changes with StatReloader
+ERROR 2023-01-13 16:48:07,917 exception 15 547972497888 Invalid HTTP_HOST header: '192.168.1.156:8000'. You may need to add '192.168.1.156' to ALLOWED_HOSTS.
+WARNING 2023-01-13 16:48:08,133 log 15 547972497888 Bad Request: /
+ERROR 2023-01-13 16:49:08,396 exception 15 547972497888 Invalid HTTP_HOST header: '192.168.1.156:8000'. You may need to add '192.168.1.156' to ALLOWED_HOSTS.
+WARNING 2023-01-13 16:49:08,480 log 15 547972497888 Bad Request: /
+ERROR 2023-01-13 16:49:08,527 exception 15 547972497888 Invalid HTTP_HOST header: '192.168.1.156:8000'. You may need to add '192.168.1.156' to ALLOWED_HOSTS.
+WARNING 2023-01-13 16:49:08,609 log 15 547972497888 Bad Request: /favicon.ico
+INFO 2023-01-13 16:50:19,310 autoreload 15 547767155984 Watching for file changes with StatReloader
+WARNING 2023-01-13 16:54:26,669 log 15 547704201696 Not Found: /api/
+INFO 2023-01-13 16:55:28,537 autoreload 15 547767155984 /app/backend/chefy-project/urls.py changed, reloading.
+INFO 2023-01-13 16:55:31,423 autoreload 21 548075228432 Watching for file changes with StatReloader
+WARNING 2023-01-13 16:55:44,502 log 21 547943870944 Not Found: /
+INFO 2023-01-13 16:56:50,927 autoreload 15 547713621264 Watching for file changes with StatReloader
+WARNING 2023-01-13 16:57:21,577 log 15 547650666976 Not Found: /api/
+ERROR 2023-01-13 16:58:32,200 exception 15 547650666976 Invalid HTTP_HOST header: '192.168.1.156:8000'. You may need to add '192.168.1.156' to ALLOWED_HOSTS.
+WARNING 2023-01-13 16:58:32,364 log 15 547650666976 Bad Request: /
+INFO 2023-01-13 16:59:45,505 util 15 547650666976 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-002/completions
+INFO 2023-01-13 16:59:51,988 util 15 547650666976 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-002/completions response_code=200

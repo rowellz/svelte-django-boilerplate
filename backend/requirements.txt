@@ -1,0 +1,17 @@
+Django>=3.2.4,<3.3.0
+django-cors-headers>=3.6.0,<3.7.0
+django-rest-auth>=0.9.5,<1.0.0
+djangorestframework>=3.12.4,<3.13.0
+drf-yasg>=1.20.0,<1.21.0
+Pillow>=9.2.0,<9.3.0
+psycopg2==2.9.3
+requests>=2.27.1,<2.28.0
+djangorestframework-simplejwt
+imgaug==0.4.0
+SpeechRecognition
+pydub
+openai==0.2.0
+
+#For testing
+Faker
+flake8
