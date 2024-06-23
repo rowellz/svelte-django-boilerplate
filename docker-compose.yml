@@ -6,7 +6,6 @@ services:
     build:
       context: .
       dockerfile: ./backend/Dockerfile
-    container_name: backend
     command: >
             sh -c "cd /app/backend &&
             python manage.py wait_for_db &&
@@ -17,7 +16,7 @@ services:
       - .:/app
       - static_volume:/app/backend/static
     ports:
-      - "8000:8000"
+      - "8234:8000"
     depends_on:
       - db
     networks:
@@ -28,13 +27,12 @@ services:
   db:
     image: postgres
     restart: always
-    container_name: db
     environment:
       POSTGRES_USER: admin
       POSTGRES_DB: mydb
       POSTGRES_PASSWORD: admin
     ports:
-      - 5432:5432
+      - '5432'
     volumes:
       - pgdata:/var/lib/posgresql/data
     networks:
@@ -48,7 +46,7 @@ services:
     volumes:
       - ./frontend/src:/my-app/src
     ports:
-      - "5173:5173"
+      - "5173"
     command: ["npm", "run", "dev"]
     depends_on:
       - backend
@@ -57,11 +55,10 @@ services:
 
   nginx:
     image: nginx:alpine
-    container_name: nginx
     volumes:
       - ./nginx.conf:/etc/nginx/nginx.conf
     ports:
-      - "80:80"
+      - "90:80"
     depends_on:
       - backend
       - app

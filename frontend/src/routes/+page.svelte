@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit APP hmr plz NUSSSS
+		to your new<br />SvelteKit app!
 	</h1>
 
 	<h2>

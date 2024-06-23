@@ -24,11 +24,8 @@ class OPENAIAPI(APIView):
 
         text = request.data["text"]
         service = openAiService()
-
-        print("Fetching ChatGPT response")
-        chatgpt_response = service.chat_gpt(f"{text}. Please include a list of ingridients instructions")
-        print(f"Done fetching ChatGPT response: {chatgpt_response}")
-
+        chatgpt_response = service.chat_gpt(text)
+        
         chefy_recipe = ChefyRecipeModel.objects.create(chat_gpt_response=chatgpt_response, user="temp_user")
 
         return HttpResponse(chatgpt_response, content_type="text/plain")

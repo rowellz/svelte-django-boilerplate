@@ -9,11 +9,15 @@ now = datetime.datetime.now()
 date = now.strftime("%d-%m-%Y")
 
 BASE_DIR = Path(__file__).resolve(strict=True).parent.parent
-SECRET_KEY = os.environ.get('SECRET_KEY')
+SECRET_KEY = os.environ.get('SECRET_KEY', '&%-9hsbgr7p)sa!0z9+(39k3kwtb&1es=*961%1ll+pj=mo674')
 DEBUG = bool(int(os.environ.get('DEBUG', 0)))
 
 ALLOWED_HOSTS = os.environ.get('ALLOWED_HOSTS', default="127.0.0.1").split(' ')
 
+ADMINS = (
+    # ('Your Name', 'your_email@domain.com'),
+    ('admin', 'admin@mysite.com'),
+)
 
 # Application definition
 
@@ -32,7 +36,6 @@ INSTALLED_APPS = [
     'corsheaders',                  # CORS
 
     # local Applications
-    'config',
     'chefy'
 ]
 
@@ -62,7 +65,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'chefy-project.urls'
+ROOT_URLCONF = 'django-project.urls'
 
 TEMPLATES = [
     {
@@ -80,7 +83,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'chefy-project.wsgi.application'
+WSGI_APPLICATION = 'django-project.wsgi.application'
 
 DATABASES = {
     'default': {
@@ -155,40 +158,6 @@ CORS_ORIGIN_WHITELIST = os.environ.get(
 
 CORS_ALLOWED_ORIGINS = os.environ.get(
     'CORS_ALLOWED_ORIGINS', default="http://localhost:8000").split(' ')
-
-
-LOGGING = {
-    'version': 1,
-    'disable_existing_loggers': False,
-    'formatters': {
-        'console': {
-            'format': "%(levelname)s %(asctime)s %(module)s "
-            "%(process)d %(thread)d %(message)s"
-        },
-        'file': {
-            'format': "%(levelname)s %(asctime)s %(module)s "
-            "%(process)d %(thread)d %(message)s"
-        }
-    },
-    'handlers': {
-        'console': {
-            'class': 'logging.StreamHandler',
-            'formatter': 'console'
-        },
-        'file': {
-            'level': 'INFO',
-            'class': 'logging.FileHandler',
-            'formatter': 'file',
-            'filename': 'chefy-project/logs/'+date+'.log',
-        }
-    },
-    'loggers': {
-        '': {
-            'level': 'DEBUG',
-            'handlers': ['file'],
-        }
-    }
-}
 
 
 # HTTPS settings
