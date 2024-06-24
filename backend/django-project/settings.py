@@ -36,7 +36,7 @@ INSTALLED_APPS = [
     'corsheaders',                  # CORS
 
     # local Applications
-    'chefy'
+    'app'
 ]
 
 REST_FRAMEWORK = {

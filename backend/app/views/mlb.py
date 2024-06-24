@@ -1,8 +1,7 @@
 from rest_framework.views import APIView
 from rest_framework import generics
-from chefy.serializers import MyProfileSerializers, MyProfileImageSerializers
-from chefy.services.openai_service import openAiService
-from chefy.models import ChefyRecipeModel
+from app.services.mlb_service import MlbStatsService
+from app.models import DjangoAppModel
 from rest_framework.parsers import FormParser, MultiPartParser
 from django.http import FileResponse, HttpResponse
 from drf_yasg.utils import swagger_auto_schema
@@ -12,7 +11,7 @@ from django.core.serializers.json import DjangoJSONEncoder
 import json
 
 
-class OPENAIAPI(APIView):
+class MlbAPI(APIView):
     parser_classes = (FormParser, MultiPartParser)
     @swagger_auto_schema(
         manual_parameters=
@@ -23,9 +22,10 @@ class OPENAIAPI(APIView):
     def post(self, request):
 
         text = request.data["text"]
-        service = openAiService()
-        chatgpt_response = service.chat_gpt(text)
-        
-        chefy_recipe = ChefyRecipeModel.objects.create(chat_gpt_response=chatgpt_response, user="temp_user")
+        service = MlbStatsService()
 
-        return HttpResponse(chatgpt_response, content_type="text/plain")
+        entry = service.stats(text)
+        
+        model_object = DjangoAppModel.objects.create(entry=entry, user="temp_user")
+
+        return HttpResponse(entry, content_type="text/plain")

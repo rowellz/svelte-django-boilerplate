@@ -1,13 +1,13 @@
 from rest_framework import serializers
-from .models import ChefyRecipeModel
+from .models import DjangoAppModel
 
 
 class MyProfileSerializers(serializers.ModelSerializer):
     class Meta:
-        model = ChefyRecipeModel
+        model = DjangoAppModel
         fields = '__all__'
 
 class MyProfileImageSerializers(serializers.ModelSerializer):
     class Meta:
-        model = ChefyRecipeModel
-        fields = ('chat_gpt_response', 'user')
+        model = DjangoAppModel
+        fields = ('entry', 'user')

@@ -7,7 +7,7 @@ from rest_framework import permissions
 from drf_yasg.views import get_schema_view
 from drf_yasg import openapi
 from django.conf import settings
-from chefy.views.openai import OPENAIAPI
+from app.views.mlb import MlbAPI
 
 # simple jwt setup
 from rest_framework_simplejwt import views as jwt_views
@@ -55,7 +55,7 @@ urlpatterns = [
         'token/refresh/', jwt_views.TokenRefreshView.as_view(),
         name='token_refresh'
     ),
-    path('api/open-ai/', OPENAIAPI.as_view()),
+    path('api/open-ai/', MlbAPI.as_view()),
 ]
 
 urlpatterns += static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
